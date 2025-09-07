@@ -145,11 +145,6 @@ docker exec -it wg-easy wg show
    * Browser → `https://myvpn.duckdns.org` → Clientliste und Einstellungen einsehen
 
 
-## Optionales Portfolio-Material
-
-* Screenshots von WG-Easy Web UI, Handshakes (`wg show`)
-* Diagramm der VPN-Architektur + DuckDNS-Fluss
-* Optionales Demo-Video: Smartphone verbindet sich, VPN läuft, Web UI anzeigen
 
 * Video mit Demo: https://www.youtube.com/watch?v=imtbccfj7Ls
 
